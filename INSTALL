@@ -1,0 +1,9 @@
+Building CoinCoin
+
+See doc/readme-qt.rst for instructions on building CoinCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CoinCoin.
+
+See doc/build-*.txt for instructions on building coincoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of CoinCoin.
